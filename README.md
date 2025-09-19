@@ -17,7 +17,7 @@ A userscript that enhances your Chessable study experience by adding personal no
    - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Safari, Edge)
 
 ### Install Script
-1. Click [here](https://greasyfork.org/scripts/XXXXX) to install from Greasyfork
+1. Click [here]([https://greasyfork.org/scripts/XXXXX](https://greasyfork.org/en/scripts/550000-chessable-enhancements-notes-favorites)) to install from Greasyfork
 2. Or manually copy the script from `chessable-enhancements.user.js`
 3. Navigate to Chessable.com - the script loads automatically!
 
